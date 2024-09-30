@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "ciI2cW1fF5D8ZwiJEAe1euIZfsGGl6JOogjUkDtUWBU=",
+  "Source": "SocialHarobor.Server",
+  "BasePath": "_content/SocialHarobor.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "E:\\React\\SocialHarobor\\socialharobor.client\\socialharobor.client.esproj",
+      "Version": 2,
+      "Source": "socialharobor.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
